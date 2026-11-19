@@ -1,0 +1,3 @@
+"""Shiar-Northstar support assistant: a production-shaped LLM inference service."""
+
+__version__ = "1.0.0"
